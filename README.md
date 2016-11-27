@@ -8,8 +8,8 @@
 ## TO DO
 
 **Install**
-	- Pyhton
-	- scikit-learn
+   - Pyhton
+   - scikit-learn
 
 ## MORE INFOS
 
