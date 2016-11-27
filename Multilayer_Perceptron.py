@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Bruno Dato
+"""
+
 import itertools
 import matplotlib.pyplot as plt
 import math 
