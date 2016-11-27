@@ -1,6 +1,6 @@
 # TP M2 Robotique : Décision et Commande 2016
 
-> Coursew2ork of pattern recognition on vowel data
+> Coursework of pattern recognition on vowel data
 
 ## Autors
 - __Bruno DATO__ -- bruno.dato.meneses@gmail.com
